@@ -1,0 +1,4 @@
+ul#awasete_blog_list { list-style: none; }
+ul#awasete_blog_list li.awasete_blog { text-align:left; padding-left:20px; }
+ul#awasete_blog_list li.awasete_loading { background: url(images/loading.gif) no-repeat left center; line-height:16px; padding-left:20px; }
+.awasete_footer { text-align:right; }
